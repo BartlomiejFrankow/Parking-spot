@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parking spot</string>
+    <string name="parking_spot_title">Parking spot(%1$f, %2$f)</string>
+    <string name="click_to_delete_info">Click to delete marker</string>
+    <string name="delete_marker_question">Do you want to delete marker?</string>
+    <string name="warning">Warning</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="delete">Delete</string>
+</resources>

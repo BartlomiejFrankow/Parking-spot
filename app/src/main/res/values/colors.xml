@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="assassin_light_green">#7f8d89</color>
+    <color name="assassin_mid_green">#4d6059</color>
+    <color name="assassin_dark_green">#2b3638</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
